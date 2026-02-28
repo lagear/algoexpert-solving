@@ -1,0 +1,47 @@
+{
+  "location": "Buenos Aires, Argentina",
+  "date": "2025-09-03",
+  "current": {
+    "temperature_f": 59.0,
+    "condition": "partly_cloudy",
+    "condition_text": "Partly Cloudy",
+    "is_day": true
+  },
+  "forecast": [
+    {
+      "date": "2025-09-03",
+      "day_of_week": "Wednesday",
+      "high_f": 62.2,
+      "precipitation_chance": 20,
+      "precipitation_type": "rain"
+    },
+    {
+      "date": "2025-09-04",
+      "day_of_week": "Thursday",
+      "high_f": 64.4,
+      "precipitation_chance": 10,
+      "precipitation_type": "rain"
+    },
+    {
+      "date": "2025-09-05",
+      "day_of_week": "Friday",
+      "high_f": 66.2,
+      "precipitation_chance": 15,
+      "precipitation_type": "rain"
+    },
+    {
+      "date": "2025-09-06",
+      "day_of_week": "Saturday",
+      "high_f": 67.1,
+      "precipitation_chance": 5,
+      "precipitation_type": "rain"
+    },
+    {
+      "date": "2025-09-07",
+      "day_of_week": "Sunday",
+      "high_f": 68.0,
+      "precipitation_chance": 0,
+      "precipitation_type": "rain"
+    }
+  ]
+}
