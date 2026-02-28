@@ -1,4 +1,4 @@
-## algoexpert-solving
+# algoexpert-solving
 Welcome to the AlgoExpert Algorithm Repository on GitHub! This repository is a comprehensive collection of algorithm solutions for some of the most common coding interview questions encountered by software engineers.
 This repository implements my own code to resolve AlgoExperts question using C#.
 
@@ -13,11 +13,6 @@ AlgoExpert is a platform that provides a range of algorithmic questions and solu
 # Why AlgoExpert?
 
 AlgoExpert is the ultimate resource for preparing for technical interviews. Our collection of algorithmic questions is designed to cover all the topics that you might encounter in a technical interview, giving you the practice and experience you need to succeed. Our solutions are thoroughly tested and optimized, ensuring that you are learning best practices and industry standards.
-
-# Recent Solutions
-
-- **Move Element To End** - Arrays category
-- **Smallest Difference** - Arrays category
 
 # Conclusion
 
