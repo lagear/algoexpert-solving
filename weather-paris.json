@@ -1,0 +1,47 @@
+{
+  "location": "Paris, France",
+  "date": "2026-02-28",
+  "current": {
+    "temperature_f": 53.4,
+    "condition": "clear",
+    "condition_text": "Sunny",
+    "is_day": true
+  },
+  "forecast": [
+    {
+      "date": "2026-02-28",
+      "day_of_week": "Saturday",
+      "high_f": 54.7,
+      "precipitation_chance": 20,
+      "precipitation_type": "rain"
+    },
+    {
+      "date": "2026-03-01",
+      "day_of_week": "Sunday",
+      "high_f": 54.0,
+      "precipitation_chance": 10,
+      "precipitation_type": "rain"
+    },
+    {
+      "date": "2026-03-02",
+      "day_of_week": "Monday",
+      "high_f": 61.5,
+      "precipitation_chance": 10,
+      "precipitation_type": "rain"
+    },
+    {
+      "date": "2026-03-03",
+      "day_of_week": "Tuesday",
+      "high_f": 62.4,
+      "precipitation_chance": 10,
+      "precipitation_type": "rain"
+    },
+    {
+      "date": "2026-03-04",
+      "day_of_week": "Wednesday",
+      "high_f": 63.8,
+      "precipitation_chance": 0,
+      "precipitation_type": "rain"
+    }
+  ]
+}
